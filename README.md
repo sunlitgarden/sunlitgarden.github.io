@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## This is Taylor
 
 You can use the [editor on GitHub](https://github.com/sunlitgarden/sunlitgarden.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -8,15 +8,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
+# Experience
+## Education
+### Certifications 
+- freecodecamp 
+- 
+### Reading List
+- [_The Vertical Farm: Feeding the World in the 21st Century_, by Dr. Dickson Despommier](http://www.verticalfarm.com)
+- [_Ecopsychology_, by Allen D. Kaner](https://www.penguinrandomhouse.ca/books/89643/ecopsychology-by-allen-d-kanner/9780871564061) 
+- [_Wolf in White Van, by John Darnielle](https://us.macmillan.com/books/9781250074713/wolfinwhitevan)
 
 1. Numbered
 2. List
